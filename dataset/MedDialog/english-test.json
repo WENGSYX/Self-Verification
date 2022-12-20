@@ -1,0 +1,429 @@
+[
+    {
+        "description": "i have all the symptoms except fever, i went to medicross and dr said i can get tested if i want to i'm not sure if i should. she gave me antibiotics klacid xl 500mg, she said i can take it if i feel worse i'm worried it will make immune system bad?",
+        "utterances": [
+            "patient: i have all the symptoms except fever, i went to medicross and dr said i can get tested if i want to i'm not sure if i should. she gave me antibiotics klacid xl 500mg, she said i can take it if i feel worse i'm worried it will make immune system bad?",
+            "doctor: in brief: antibiotic i don't recommend antibiotics for a simple viral upper respiratory tract infection unless examination revealed signs of acute bronchitis or sinusitis. they are not effective for viral infections like covid 19 with no bacterial lung involvement either. if you've been exposed to someone with covid 19 or or if you or someone you were exposed to travelled to a region where it was endemic, get tested would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "will my mask from sherwin williams paint store with filters protect me from corona virus along with paint fumes?",
+        "utterances": [
+            "patient: will my mask from sherwin williams paint store with filters protect me from corona virus along with paint fumes?",
+            "doctor: in brief: maybe such a mask helps protect others from any respiratory material you exhale or cough but does not filter out the virus. only high end medical & industrial masks (p95/n95)would filter that. your best protection is frequent hand washing and not touching your face/mouth/nose with contaminated fingers., would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "traveled 2wks ago from fl. to pa. 68 wf. has had fever of 100 , chills at night and some coughing for 5ds. tested negative for flu and x rays of lungs were clear . coronavirus? scarce",
+        "utterances": [
+            "patient: traveled 2wks ago from fl. to pa. 68 wf. has had fever of 100 , chills at night and some coughing for 5ds. tested negative for flu and x rays of lungs were clear . coronavirus? scarce",
+            "doctor: in brief: cough and cold hello and welcome to healthtap,it is a good idea to get tested. you can visit your nearest urgent care. make sure to call them before coming, after getting tested self quarantine for total 2 weeks from the onset of symptoms. please wear mask and perform frequent hand washing. avoid ibuprofen/other nsaids, use acetaminophen/ tylenol only. look for signs of worsening cough & breathing difficulties. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "are there long term repercussions of not treating pneumonia which was diagnosed 5 months ago?",
+        "utterances": [
+            "patient: my 19 year old son was diagnosed with pneumonia 5 months ago and was given antibiotics but with minimal results. unfortunately he still suffers from the same symptoms but since he is in the military he refuses to go back to the doctor for fear of reprisal. his cough is still deep and his energy is low. are there any long term repercussions for his lungs if he continues without treatment.",
+            "doctor: hello, as you explain the situation i strongly recommend you to send him to the doctor for a re-evaluation of the situation. hope i have answered your query. let me know if i can assist you further. regards, dr. jnikolla, pulmonologist"
+        ]
+    },
+    {
+        "description": "hi there me and my 7year old have flu like symptoms and have been in contact with someone that arrived from new zealand with an undiagnosed heavy flu. should i get tested for covid-19?",
+        "utterances": [
+            "patient: hi there me and my 7year old have flu like symptoms and have been in contact with someone that arrived from new zealand with an undiagnosed heavy flu. should i get tested for covid-19?",
+            "doctor: in brief: hard to say new zealand is definitely lower risk than europe. your best bet is to stay home, with masks on (home made) follow hygiene. if you need more help ask another question here. if you have access to testing you could do it but i think we need the tests for folk who are more ill at this stage. hope this makes sense. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "if one get corona and you are self isolating and it is not severe, is there any meds that one can take?",
+        "utterances": [
+            "patient: if one get corona and you are self isolating and it is not severe, is there any meds that one can take?",
+            "doctor: in brief: not really keep immunity up, keep mental health strong, no specific meds at this point in time would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "are frequent nose bleeds and sever cough signs of pneumonia?",
+        "utterances": [
+            "patient: i've been recently having more nose bleeds lately. 4-5 times per day to be exact. and i have the worst cough ever that comes with it. even when i am asleep my nose starts to bleed and i wake up due to the blood running down my mouth. is this pneumonia?! or some other illness?",
+            "doctor: thanks for your question on healthcare magic.i can understand your concern. pneumonia is less likely to cause nose bleeding. recurrent nose bleeding with coughing are commonly seen with sinusitis. so better to consult ent doctor and get done clinical examination and ct scan of paranasal sinuses (pns). also get done chest x ray for pneumonia. if chest x ray is normal then no need to worry for pneumonia. you may also need endoscopic evaluation of sinuses if ct pns is suggestive of infection or erosion.don't worry, you will be alright with all these. hope i have solved your query. i will be happy to help you further. wish you good health. thanks."
+        ]
+    },
+    {
+        "description": "hi, last night i just started getting fluey; my nose got really runny and it\u2019s continued to today. i\u2019ve also started getting a slight headache as well. with this panic about the covid-19 should does how i feel warrant me getting tested for it?",
+        "utterances": [
+            "patient: hi, last night i just started getting fluey; my nose got really runny and it\u2019s continued to today. i\u2019ve also started getting a slight headache as well. with this panic about the covid-19 should does how i feel warrant me getting tested for it?",
+            "doctor: no testing yet. it is likely a common cold that you have.if your symptoms get worse eg. fever sore throat and painfull cough you can consult your doctor for an evaluation. try rather to stay home and rest ."
+        ]
+    },
+    {
+        "description": "i have a slight cough over the last few days but haven't been exposed to people or traveled to covid 19 areas. i have recently quit smoking so could that be it. what should i do?",
+        "utterances": [
+            "patient: i have a slight cough over the last few days but haven't been exposed to people or traveled to covid 19 areas. i have recently quit smoking so could that be it. what should i do?",
+            "doctor: keep non smoking. if you have no exposure history to covid 19, your cough is probably not infection. keep up the good work and do not smoke or vape."
+        ]
+    },
+    {
+        "description": "daughter is experiencing dry coughing nasal drip. she was on amoxicillin panamol and rhineton for ear infection. that was diagnosed last week monday. i need to know if she should go for corona virus test as we travelled back from cape town last week.",
+        "utterances": [
+            "patient: daughter is experiencing dry coughing nasal drip. she was on amoxicillin panamol and rhineton for ear infection. that was diagnosed last week monday. i need to know if she should go for corona virus test as we travelled back from cape town last week.",
+            "doctor: self isolate. avoid contact, wash hands, plenty of rest and fluids, if high fever or trouble t=breathing call doctor they can advise you about testing."
+        ]
+    },
+    {
+        "description": "good morning i have sore throat for 2 days now, this morning i woke up and my throat was a lot better just a little scratchy. my other symptoms this morning were stuffy nose and a bit on the sore side with my body?",
+        "utterances": [
+            "patient: good morning i have sore throat for 2 days now, this morning i woke up and my throat was a lot better just a little scratchy. my other symptoms this morning were stuffy nose and a bit on the sore side with my body?",
+            "doctor: likely not corona. sounds more like seasonal allergy or a mild cold. gargle with warm salt water and use meds you have at home. ask questions on this forum - don't go out unless you really really have to."
+        ]
+    },
+    {
+        "description": "can a pneumonia shot raise your white blood cell count?",
+        "utterances": [
+            "patient: last tuesday i had a flu shot and a neumonia shot. i am 68 and male. i had a very sore arm and felt bad the next day in which i had blood drawn for a test. the results showed a high white cell blood count as well as high anc and amc. could these high readings be because of the shots the day before?",
+            "doctor: hello, * the pneumonia shot per se is not responsible for high wbc count, but as you are telling there are soreness and bad feeling at the injection site over arm, there are all possibilities that you have cellulitis or possible abscess formation at the injection site; which will recruit neutrophils at the site and cause secondary rise in wbc count. * primary relief with ice application and secondary management with systemic antibiotics and anti-inflammatory medicines with your doc. hope i have answered your query. let me know if i can assist you further. take care regards, dr bhagyesh v. patel, general surgeon"
+        ]
+    },
+    {
+        "description": "my throat is extremely scratchy and red inside, i can see it being inflamed almost to my teeth (dark pink in colour) i\u2019m very short of breathe, even as an asthmatic, i have to use my inhalers more than usual and has nebulized 3 times in the last 24 h?",
+        "utterances": [
+            "patient: my throat is extremely scratchy and red inside, i can see it being inflamed almost to my teeth (dark pink in colour) i\u2019m very short of breathe, even as an asthmatic, i have to use my inhalers more than usual and has nebulized 3 times in the last 24 h?",
+            "doctor: symptoms. please call your general physician and report your symptoms. they may want to see you, send you to be tested, or may give you other advice. please call now before symptoms worsen."
+        ]
+    },
+    {
+        "description": "what is the recovery time for pneumonia?",
+        "utterances": [
+            "patient: hi, may i answer your health queries right now ? please type your query here...my husband has a chest infection - a small pocket of pneumonia is in his left lobe. he is coughing up large long blood clots and also coming through his nose when blowing. will this settle or continue",
+            "doctor: respected user , hithanks for using healthcaremagic.comi have evaluated your query thoroughly .* recovery time of the pneumonia vary from days to weeks depending upon - extent of pneumonia - associated co morbid conditions - causative organisms virulence - host immune response - type of treatment - smoking consumption - activity level - exposure to noxious substances as pollen or dust - diet .* so , to answer the question , lot many conditions have to be calculated and based upon that we can comment .* one thing i want to convey that it will be surely recovered with proper line of management .hope this clears your query .welcome for further doubts .regards . of management ."
+        ]
+    },
+    {
+        "description": "why do i get runny nose and tickling sensation after getting treatment for pneumonia?",
+        "utterances": [
+            "patient: i was diagnosed with pneumonia 9 days ago. i had been sick a week before that. i get better, then it seems to come back. now i have a runny nose (which i didn t have before) and i still have a tickle. 1 day good, 1 day bad, 1 day good. etc. why the runny nose? what does the tickle signify? i am a singer. got get well by sat. this is tues.",
+            "doctor: hello, as you explain the history you don't have to worry you are in the phase of improvement just so correctly the treatment. hope i have answered your query. let me know if i can assist you further. regards, dr. jnikolla, pulmonologist"
+        ]
+    },
+    {
+        "description": "do severe headache, tingling head and nose, pain in lower chest and chills mean pneumonia?",
+        "utterances": [
+            "patient: hello, im a female of 26, heavy smoker with last breath reading of 33 and drink daily. on thursday i suffered from a severe headache which stayed until friday evening, as the headache subsided i had a tingling and pressure sensation over head which was also over my nose. i have had no fever, cold etc yesterday i felt very lightheaded and also after an episode of diarrea this morning am lightheaded again... i have no trouble breathing as such but i suffer from anxiety which i think has been happening alot today. i have had some twinge type pains in my lower chest ( like at the bottom of ribs) for a few days but not necessarily when i breath in and out and when i do cough i have had mucus? come up, it s almost like it s stuck in my throat also.... i have some head pressure and am getting cold feet every now and then everything i ve checked says pneumonia does this sound like what i could have or could it just be anxiety, i m a little worried...the symptoms separately come and go but my head stays feeling.a little heavy! chills now and again",
+            "doctor: hello,according to history, yes, it might be pneumonia, but you should do a chest x-ray. hope i have answered your query. let me know if i can assist you further.regards,dr. jnikolla"
+        ]
+    },
+    {
+        "description": "do you have any idea how long novel coronavirus stays on cash money?",
+        "utterances": [
+            "patient: do you have any idea how long novel coronavirus stays on cash money?",
+            "doctor: uncertain. the exact amount of time would depend on the inoculum or how much virus was deposited and whether the cash were dry or moist . the limited studies suggest that the virus does not live very long on cardboard - about 4 hrs or so, so i suspect paper may be similar. if it were moist or wet, it may last longer. heat may inactivate the virus, so consider setting the money in the sun or put in a drier."
+        ]
+    },
+    {
+        "description": "and i travelled to the uk (back in rsa on the 1st or march but the symptoms only appeared thursday 19 march with mild ear ache to severe in the evening. followed by soar throat, cougth and body ache on friday, fever and weekness on saturday?",
+        "utterances": [
+            "patient: and i travelled to the uk (back in rsa on the 1st or march but the symptoms only appeared thursday 19 march with mild ear ache to severe in the evening. followed by soar throat, cougth and body ache on friday, fever and weekness on saturday?",
+            "doctor: in brief: infection influenza versus coronavirus. typically more sudden onset of fever and myalgias with influenza, but sometimes hard to tell. if no significant sob probably need to quarantine. call your local physician or health department. i know healthtap has been helping to order or recommend test, but typically test not available. if coronavirus most cases have been mild and expect about 10 days of symptoms. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "what are the symptoms of pneumonia?",
+        "utterances": [
+            "patient: diagnosed with type b flu on sunday, getting worse even with meds, now have rattling breathing and cough, only slight fevers that come and go, chest hurts, throat hurts, very weak, no appetite. and almost 33 weeks pregnant... could this be the sign of pneumonia coming on?",
+            "doctor: thanks for your question on healthcare magic.i can understand your concern. yes, your symptoms are suggestive of pneumonia more. pneumonia (lower respiratory tract infection) is common after upper respiratory tract infection (urti).worsening cough, chest congestion, rattling sound from chest, weakness, loss of appetite etc are characteristic symptoms of pneumonia. so better to consult pulmonologist and get done clinical examination of respiratory system and chest x ray (with abdominal shield).you should definitely start higher antibiotics to recover faster as you are pregnant. hope i have solved your query. i will be happy to help you further. wish you good health. thanks."
+        ]
+    },
+    {
+        "description": "i read that people taking steroids for asthma are at higher risk for poor outcomes from covid19. does this include inhalers containing steroids? also, is mild intermittent asthma a risk for poor outcomes or only more severe forms of asthma? thanks",
+        "utterances": [
+            "patient: i read that people taking steroids for asthma are at higher risk for poor outcomes from covid19. does this include inhalers containing steroids? also, is mild intermittent asthma a risk for poor outcomes or only more severe forms of asthma? thanks",
+            "doctor: in brief: not quite that way people with chronic lung problems do worse in a lung disease outbreak. for one specific person... well, there's no way to guess. \"people\" in general do worse if they have uncontrolled lung disease. that means it's likely that asthmatics using inhaled steroids to give them good disease control will be better off than asthmatics who use steroids but still cannot get good control. be in good control."
+        ]
+    },
+    {
+        "description": "i am an asthmatic but rarely need my inhaler and haven\u2019t had an attack in decades however with covid 19 i\u2019d like to put in place some measures in case the health services get overwhelmed. what drugs can i take if inhalers don\u2019t work?",
+        "utterances": [
+            "patient: i am an asthmatic but rarely need my inhaler and haven\u2019t had an attack in decades however with covid 19 i\u2019d like to put in place some measures in case the health services get overwhelmed. what drugs can i take if inhalers don\u2019t work?",
+            "doctor: get meds refilled. with the covid-19 pandemic, people with chronic conditions or even intermittent conditions should get their meds refilled in case pharmacy services close down. for asthma patients, they should refill their inhalers. some use only an urgent \"rescue\" inhaler like albuterol, while others also use \"preventive\" inhalers like fluticasone. it's best to keep both on hand. if symptoms go bad, it's er time."
+        ]
+    },
+    {
+        "description": "is it safe to take steroid tab or nasal spray if i have covid-19?",
+        "utterances": [
+            "patient: is it safe to take steroid tab or nasal spray if i have covid-19?",
+            "doctor: in brief: nasal rinses for allergic symptoms, nasal saline and an oral antihistamine are often helpful for controlling symptoms. continue to monitor your temperature and report fever and/or shortness of breath to your pcp. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "i have type 1 diabetes that i try hard to control, but i struggle with. are my chances high for poor outcomes with the virus? i\u2019m in such a panic about it.",
+        "utterances": [
+            "patient: i have type 1 diabetes that i try hard to control, but i struggle with. are my chances high for poor outcomes with the virus? i\u2019m in such a panic about it.",
+            "doctor: depends-all factors. type i diabetics can be more fragile when they have any type of infection unfortunately. if you are younger & do not smoke & do not have other chronic problems, your increased risk may be minimal. eating balanced diet, keeping glucose controlled, getting adequate exercise (including fresh air outdoors), & adequate sleep all should help protect you from severe consequences, but be very careful ! ."
+        ]
+    },
+    {
+        "description": "i use athraway chronic for rheumatoid arthritis, will this complicate things relating to the corona virus?",
+        "utterances": [
+            "patient: i use athraway chronic for rheumatoid arthritis, will this complicate things relating to the corona virus?",
+            "doctor: no. i do not think it will have any effect on corona virus."
+        ]
+    },
+    {
+        "description": "last year during flu season had a severe cough, difficulty breathing and xray show there was fluid in my chest/lungs. any advice on what to do with this covid 19.",
+        "utterances": [
+            "patient: last year during flu season had a severe cough, difficulty breathing and xray show there was fluid in my chest/lungs. any advice on what to do with this covid 19.",
+            "doctor: covid. follow recommendations. flu last year and covid this year are two separate issues. at 33 your risk of sever infection is low. follow the guidelines for covid. the guidelines are as follows:https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide."
+        ]
+    },
+    {
+        "description": "does coughing up of blood in a pneumonia patient need immediate medical attention?",
+        "utterances": [
+            "patient: i have pneumonia and my doctor has me on strong antibodics and albut in my nebulizer. yesterday after a treatment i spit up fresh blood and i have this second day also. i m on blood thinners and wonder if that may be my problem. i feel better in other ways.",
+            "doctor: helloas you explain the situation yes it might be that in pneumonia to have blood with the cough and especially if you take blood thinners do not worry.however of it last for several days than better to talk with your treating doctor for this for safety.regardsdr.jolanda"
+        ]
+    },
+    {
+        "description": "i hear covid 19 virus dies around 27c. does it mean once temperature outside rises above 27 c all covid 19 viruses outside will be dead?",
+        "utterances": [
+            "patient: i hear covid 19 virus dies around 27c. does it mean once temperature outside rises above 27 c all covid 19 viruses outside will be dead?",
+            "doctor: not as fragile. as one might hope. -80 c does not kill it +56 c does kill it."
+        ]
+    },
+    {
+        "description": "how do we differentiate between covid and flu? my son started with a very sore throat last night and i can\u2019t seem to get his fever under control spread through the house very quickly to everyone else",
+        "utterances": [
+            "patient: how do we differentiate between covid and flu? my son started with a very sore throat last night and i can\u2019t seem to get his fever under control spread through the house very quickly to everyone else",
+            "doctor: in brief: stay home do whatever you do with a regular flu. drink a lot of fluids, use acetaminophen/paracetamol (tylenol) for the fever and sore throat, eat/drink citrus and please stay home and away from the elders. follow the recommendation of your local authorities.only go to medical services if you feel shortness of breath and use masks if you feel sick and need to go out of your house would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "colleague is covid 19 positive. i had meetings with him. instructions are to self isolate and get tested if show symptoms. i have no symptoms. is it possible to opt to get tested?",
+        "utterances": [
+            "patient: colleague is covid 19 positive. i had meetings with him. instructions are to self isolate and get tested if show symptoms. i have no symptoms. is it possible to opt to get tested?",
+            "doctor: not advised to test . the test currently used is a genetic test which test for the virus genetics. therefor if you are tested while asymptomatic, it will not test positive, even though you might actually be infected.rather stay under self quarantine and test if you show some signs."
+        ]
+    },
+    {
+        "description": "if one has been in contact with a covid-19 positive person in the last 12-day, but am asymptomatic, what should one do to confirm if the virus has been or not contracted? don\u2019t think it is responsible to wait till symptoms manifest",
+        "utterances": [
+            "patient: if one has been in contact with a covid-19 positive person in the last 12-day, but am asymptomatic, what should one do to confirm if the virus has been or not contracted? don\u2019t think it is responsible to wait till symptoms manifest",
+            "doctor: isolate. no symptoms no test. you really do not need testing if there are no symptoms, but act like you are contagious. avoid contact with people for 14 days and only consult your gp if get symptoms."
+        ]
+    },
+    {
+        "description": "will lysol wipes kill coronavirus? how long can coronavirus live on household surfaces?",
+        "utterances": [
+            "patient: will lysol wipes kill coronavirus? how long can coronavirus live on household surfaces?",
+            "doctor: in brief: several days lysol should be good. seehttps://www.wired.com/story/coronavirus-disinfectant-cleaning-guide/ would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "i am a 46 year old female. i've had trach for the last 9 months due to stridor, bronchospasm and larageal spasms. i am currently being worked up for autoimmune disease. i am on xoliar am i more susceptible to coronavirus?",
+        "utterances": [
+            "patient: i am a 46 year old female. i've had trach for the last 9 months due to stridor, bronchospasm and larageal spasms. i am currently being worked up for autoimmune disease. i am on xoliar am i more susceptible to coronavirus?",
+            "doctor: yes. very very important for you to stay in quarantine and not go and shop. also make sure anything that comes into your house is sanitized. every single thing. sanitize. keep 2 m away from everyone and wear a buff or home made mask that covers your nose and mouth. be safe. be positive. we will get through this."
+        ]
+    },
+    {
+        "description": "hi! i\u2019ve had a cold since 13 march. i have since started coughing and just don\u2019t seem to be recovering. one day i will be feeling fine and the next day back to feeling terrible. lots of tight phlegm and very sore throat. ?",
+        "utterances": [
+            "patient: hi! i\u2019ve had a cold since 13 march. i have since started coughing and just don\u2019t seem to be recovering. one day i will be feeling fine and the next day back to feeling terrible. lots of tight phlegm and very sore throat. ?",
+            "doctor: in brief: too soon to recover on aveage, viral respiratory illnesses may take 2-3 weeks for full recovery and severe cases may take 4-6 weeks. if your symptoms worsen, you should contact your health care provider to inquire regarding corona virus testing or quarantine. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "on saturday evening i arrived from a vacation in canada and i traveled via the european union(amsterdam). according to the nicd, i am required to be in self quarantine for 14 days. can one request a medical certificate for this from a doctor?",
+        "utterances": [
+            "patient: on saturday evening i arrived from a vacation in canada and i traveled via the european union(amsterdam). according to the nicd, i am required to be in self quarantine for 14 days. can one request a medical certificate for this from a doctor?",
+            "doctor: in brief: covid19 hiyou cannot go in and see your doctor, so i would suggest to phone hime and hear what he says. regardsdr wil would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "do i need to get tested for covid-19. living with a person who returned from canada 20/03. dry throat, but do not feel sick?",
+        "utterances": [
+            "patient: do i need to get tested for covid-19. living with a person who returned from canada 20/03. dry throat, but do not feel sick?",
+            "doctor: in brief: hard to answer if not ill assume you have it and behave as if you do, wear a bandanna over nose and mouth and if you have access to testing then do it. if not stay home and boost immunity. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "itchy/burning throat. no cough. could this be corona infection?",
+        "utterances": [
+            "patient: itchy/burning throat. no cough. could this be corona infection?",
+            "doctor: it could be. self isolate, wash your hands, plenty of fluids and rest, if you get a high fever or have trouble breathing call your doctor."
+        ]
+    },
+    {
+        "description": "i think i have covid-19. i have difficulty breathing (shortness of breath), tightness in chest, sore throat and light fever. symptoms have been progressing and getting stronger over the last 4 days. i had diarrhea two days ago.",
+        "utterances": [
+            "patient: i think i have covid-19. i have difficulty breathing (shortness of breath), tightness in chest, sore throat and light fever. symptoms have been progressing and getting stronger over the last 4 days. i had diarrhea two days ago.",
+            "doctor: in brief: if bad, needs er covid-19 pandemic at this time, so a doctor on video may consult by video instead of requiring an in-person visit. flu-like symptoms can be from a strep throat infection, a cold or influenza, or from some other cause like covid-19. usually, a person calls the doctor if the symptoms are bothersome, serious, recurrent, or persistent. covid-19 testing depends on local availability. (3/22/20) would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "do i have coronavirus ? i have joint pains. i did sleep most of the day yesterday so i might have been in an uncomfortable position. i have neck, shoulder, elbow joint and wrist pain. must i get tested ?",
+        "utterances": [
+            "patient: do i have coronavirus ? i have joint pains. i did sleep most of the day yesterday so i might have been in an uncomfortable position. i have neck, shoulder, elbow joint and wrist pain. must i get tested ?",
+            "doctor: in brief: no not yet, joint pain alone not an indication, but stay home would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "re: covid-19 -- is it safe to go out in public without a face mask on right now as long as the recommended 6ft distance is maintained? am wondering if picking up groceries curbside (have to get out of car and open trunk for store employee) is safe?",
+        "utterances": [
+            "patient: re: covid-19 -- is it safe to go out in public without a face mask on right now as long as the recommended 6ft distance is maintained? am wondering if picking up groceries curbside (have to get out of car and open trunk for store employee) is safe?",
+            "doctor: in brief: yes and no. yes for the first question. for the second question i should say no because the possibility of the store employee coming close less than 6 feet is great. but what you can do is you get out of the car open the truck and then call the store employee for a curb side pick up leaving always a 6 feet distance between two of you. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "i have had sore throat and shortness of breath, tight chest since last monday. 8 days later and symptoms are not going away. no runny nose. i have been exposed to travelers. should i go for covid test?",
+        "utterances": [
+            "patient: i have had sore throat and shortness of breath, tight chest since last monday. 8 days later and symptoms are not going away. no runny nose. i have been exposed to travelers. should i go for covid test?",
+            "doctor: yes. yes."
+        ]
+    },
+    {
+        "description": "suggest treatment for pneumonia",
+        "utterances": [
+            "patient: my boyfriend was put in the hospital for strep a nemonia 5 days ago yesterday they done another x ray and said that his nemonia was getting worse and had spread to his left lung and was also in his right real bad they also done a culture on the stuff that hes been coughing up out of his lungs and today they told us he has staph in his lungs how dangerous is this and what should be done",
+            "doctor: hello thank you for trusting hcm dear what is the culture report suggestive?? staphylococcus aureus pneumonia take more time to come under control, usually community acquired staphylococcus infection may present with methicillne resistance(mrsa) , for this patient cases need to treated with vancomycine, and linezolid. some patients also developed vancomycine resistant staph aureus (vrsa) infection, this infection very problematic to control. very few drugs like quinupristin-dalfopristin and linezolid available to control vrsa. please follow your doctor orders they will treat you in right way. i think i answered to your question if you have more questions please feel free to ask."
+        ]
+    },
+    {
+        "description": "i have a dizzy head and some phlegm. need to check against covid symptoms please?",
+        "utterances": [
+            "patient: i have a dizzy head and some phlegm. need to check against covid symptoms please?",
+            "doctor: in brief: check online there are many resources online about the symptoms of covid-19. the most important questions relate to travel history and the symptoms you are experiencing. if you suspect that you may have covid-19, self-isolate as soon as possible and call your local doctor or testing site. you can also check out https://www.gov.za/coronavirus/faq or call 0800 029 999 would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "i am experiencing a sore throat, fever, headache and coughing. i have a bit of a runny nose, short breath but only from time to time. i have traveled on the mcs cruise to mozambique 13-16 march 2020. i think it might be necessary to do a covid-19?",
+        "utterances": [
+            "patient: i am experiencing a sore throat, fever, headache and coughing. i have a bit of a runny nose, short breath but only from time to time. i have traveled on the mcs cruise to mozambique 13-16 march 2020. i think it might be necessary to do a covid-19?",
+            "doctor: get tested. if you can not find a place to get tested self-quarantine yourself for 2 weeks. you can use over the counter drugs for symptomatic treatment in the mean time. if sore throat get worse this could be strep throat need a culture to be taken from your throat by your doctor followed by antibiotic. if shortness of breath gets worse call the hospital for the inpatient treatment could be for covid-19."
+        ]
+    },
+    {
+        "description": "body ache and fever, scratchy itchy throat?",
+        "utterances": [
+            "patient: body ache and fever, scratchy itchy throat?",
+            "doctor: early covid-19? call your health care provider to get instructions regarding testing, self-quarantine and possible hospitalization then follow through!"
+        ]
+    },
+    {
+        "description": "suggest medication for pulmonary embolism in right lung and pneumonia in left.",
+        "utterances": [
+            "patient: about 6 weeks ago i was diagnosed with pe in right lung and phnemoia in the left lung. i was in teh hospital for 9 days. i am on 20mg of warfin per day! my blood levels are holding steady at 2.67. yesterday i had a bit of lower back pain and today it is between my shoulder blades, mostly on my right side. it hurts my back to breathe, swallow, and move. just sore muscles or could it be something serious with the blood clot? i hate to rush into the doctor if it is nothing....i hope you can help! thanks",
+            "doctor: thanks for your question on healthcare magic.i can understand your concern. since you are taking warfarin (blood thinner), possibility of pulmonary embolism (pe) related pain is less likely.possibility of musculoskeletal pain is more likely. so avoid heavyweight lifting and strenuous exercise. avoid movements causing pain. apply warm water pad on affected areas of chest and back. take painkiller and muscle relaxant drugs like ibuprofen and thiocolchicoside. you will mostly improve with all these in 2-3 days. if not improving then consult doctor. hope i have solved your query. i will be happy to help you further. wish you good health. thanks."
+        ]
+    },
+    {
+        "description": "hi i have been have a sore throat for almost a week now, tried gaghling with warm and apple cider vinegar, drank warm water with apple, warm with lemon. now i still have a sore throat and burning on my chest?",
+        "utterances": [
+            "patient: hi i have been have a sore throat for almost a week now, tried gaghling with warm and apple cider vinegar, drank warm water with apple, warm with lemon. now i still have a sore throat and burning on my chest?",
+            "doctor: in brief: can give dr. a call throat pain can be from a strep throat infection (antibiotics needed), a cold or influenza (antibiotics usually not used), or from some other cause such as allergies or irritants. usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. covid-19 infections tend to have cough, whereas strep usually lacks cough but has more throat pain. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "if everyone is running low on facemasks, what else can i use to protect myself from the coronavirus?",
+        "utterances": [
+            "patient: if everyone is running low on facemasks, what else can i use to protect myself from the coronavirus?",
+            "doctor: they don't . unless you are using high end medical or industrial masks they do not protect you from any such virus. they prevent your cough or expired air from infecting others. any scarf/fabric homemade mask or similar device will do the same. you protect yourself more by washing your hands often & not touching your face/mouth/nose with contaminated fingers."
+        ]
+    },
+    {
+        "description": "if i present with a scratchy throat, do i automatically self isolate, or do i wait for more symptoms for coronavirus?",
+        "utterances": [
+            "patient: if i present with a scratchy throat, do i automatically self isolate, or do i wait for more symptoms for coronavirus?",
+            "doctor: don't isolate yet. . a scratchy throat could be caused by heartburn, oral thrush, bacterial pharyngitis (@ the beginning) or any of the 200 odd viruses that cause the \"common cold\".if you have had a +ve contact with a covid 19 patient then isolate for 14 days or ifyou develop a high fever, severe headache, dry cough and sore throat, the isolate but only after getting tested for covid 19."
+        ]
+    },
+    {
+        "description": "what is the treatment for pneumonia?",
+        "utterances": [
+            "patient: my daughter is 3 and a half...has had pneumonia twice and is currently being treated with seretide inhaler, ventoline exohaler, brozedex and ebastel. her chest infection though isn't clearing and her appetitie is low. she complains of chest pains. what is the best way to get her treated and cured? she has used seretide for over 4 months now and it has a steroide and that may have side effects, but the doctor says she must have it to stop the infection, but that isn't working either.",
+            "doctor: thanks for your question on healthcare magic.i can understand your concern. in my opinion, you should consult pediatric pulmonologist and get done bronchoscopy and bal (bronchoalveolar lavage) analysis.bal culture and sensitivity report will isolate the causative organism and guide about effective antibiotic treatment. so we can achieve faster recovery from this. don't worry, with effective antibiotic treatment, she will be alright with 2 - 3 weeks treatment.hope i have solved your query. i will be happy to help you further. wishing good health to your daughter. thanks."
+        ]
+    },
+    {
+        "description": "experiencing pain and swelling accompanied by warmth to the touch with a red patch around my elbow. also experiencing body aches. what could be the problem?",
+        "utterances": [
+            "patient: experiencing pain and swelling accompanied by warmth to the touch with a red patch around my elbow. also experiencing body aches. what could be the problem?",
+            "doctor: might need treatment. could be infection or other condition requiring urgent treatment. seek evaluation, but preferably on phone or online, to avoid coronavirus exposure. video consultations are available on healthtap; click on \"talk-to-doctor.\" ."
+        ]
+    },
+    {
+        "description": "my copd meds are finishing in the next week and i cant get in to see my pulmologist?",
+        "utterances": [
+            "patient: my copd meds are finishing in the next week and i cant get in to see my pulmologist?",
+            "doctor: try our other forum. you have posted on our free, public, informational forum, where doctors do not see patient charts nor give medical care. try a private consultation where doctors can see you on video. also, in the us certain medications (but not all) can be prescribed or temporarily refilled, depending on individual circumstances. start over on your screen, click on care, then talk-to-doctor. (mar. 2020)"
+        ]
+    },
+    {
+        "description": "should i invest in a reusable mask to protect myself from covid-19? i know a lot of people wear those in asian countries and they look kinda nice.",
+        "utterances": [
+            "patient: should i invest in a reusable mask to protect myself from covid-19? i know a lot of people wear those in asian countries and they look kinda nice.",
+            "doctor: in brief: barrier protection most of these masks won't completely protect you from a virus, which can penetrate these materials however that does not mean they are not useful. a mask of any sort is good if you are coughing or sneezing to limit some of the aerosols and also is better than nothing if you are out and about in a high risk situation. the chance of you catching the virus is highly dependent on lengthexposure & dos would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "suggest treatment to cure pneumonia",
+        "utterances": [
+            "patient: hi last night i went to emerg i heard the nurse tell my doctor i might have pnemonia he didn't even bother coming to see me and when i left upset and walked to his office he prescribed me meds that may react somehow with the meds i'm taking should i be concerned should find a new doctor is this common way to treat your patients? he was the doctor on call last night",
+            "doctor: thanks for your question on healthcare magic.i can understand your concern.yes, you should definitely consult another doctor.pneumonia is lung infection and it should be treated promptly and correctly.and chest x ray is must for the diagnosis of pneumonia.so better to consult another doctor and get done chest x ray to rule out pneumonia.hope i have solved your query. i will be happy to help you further. wish you good health. thanks."
+        ]
+    },
+    {
+        "description": "what causes cold sensations in the abdomen and back while having pneumonia?",
+        "utterances": [
+            "patient: my husband, age 63 is feeling cool on his abdomen and back while the rest of him is warm...currently sleeping. last week was diagnosed with pneumonia...had a period last week when he was so cold, couldn t get warm so we went to the hospital. he says he is feeling fine and feels ok to work everyday (does construction work outside on a normal basis). should i be concerned tonight that part of him feels cool even when under covera for an hour or two thanks so much",
+            "doctor: hello and thank you for asking in hcm i can understand your concern don't worry so much. your husband is under treatment for pneumonia according to the history and he has had fever several times.now he feels better but he is not completely asymptomatic which means that the feeling he had might be due to an episode of temperature not so high .this shows that the treatment is doing well. but he has to be careful with the treatment to be correct as the doctor has prescribed ,no smoking and not to work in dust environment ,a lot of liquids too.take carewish a fast recovery for your husband. dr. jolanda pulmonologist"
+        ]
+    },
+    {
+        "description": "i have some suspected mulluscum on most of my stomach but it's itchy, inflammed, sentitive, and it's spreading. aren't most people supposed to around 20 bumps? why is it peeling so much? most of all, what is the best way to treat mulluscum at home?",
+        "utterances": [
+            "patient: i have some suspected mulluscum on most of my stomach but it's itchy, inflammed, sentitive, and it's spreading. aren't most people supposed to around 20 bumps? why is it peeling so much? most of all, what is the best way to treat mulluscum at home?",
+            "doctor: in brief: hard to get rid of molluscum is a virus, the less you touch the lesions the less you will spread the infection. if you want to get rid of it it\u2019s hard, but would suggest a dermatologist rather than the freezing sprays or chemicals used to kill the virus in the skin. there is no \u2018limit\u2019 to number of lesions, have not heard that information, but i would not believe that would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "suggest treatment for pneumonia",
+        "utterances": [
+            "patient: hi, my mom is 65 years of age, she never took any medication except for antibiotics in march when she broke her wrists of osteophyroses, about 4 weeks back she went to a doctor for a cough who tokd her she had brochites, and gave her a antibiotic of 400mg that she had to take twice a day, then that night she got worsr, thwe next day she went to another doctor who admitted her to hospital, said she had neumonia.shes been in icu ever since. she develop water in her lungs, her kidneys and liver had failed to work twice now, and she have infection in her muscles, (cant walk, talk & struggle to brath.",
+            "doctor: thanks for your question on healthcare magic.i can understand your concern. by your history and description, possibility of severe pneumonia with sepsis and mods (multiple organ dysfunction syndrome) is more likely.best treatment of pneumonia is identification of causative organism and then start appropriate treatment. so get done bronchoscopy and bal (bronchoalveolar lavage) culture and sensitivity report.also get done blood culture and sensitivity report. culture report will isolate the causative organism and sensitivity report will guide about effective antibiotic treatment. by this we can achieve faster recovery. hope i have solved your query. i will be happy to help you further. wish you good health. thanks."
+        ]
+    },
+    {
+        "description": "good afternoon, i recently visited a client whose husband works in the same practice as a confirmed covid case.two days after the visit i fell ill, gradually getting a sore throat, fever and feeling tired. should i get tested?",
+        "utterances": [
+            "patient: good afternoon, i recently visited a client whose husband works in the same practice as a confirmed covid case.two days after the visit i fell ill, gradually getting a sore throat, fever and feeling tired. should i get tested?",
+            "doctor: in brief: tesing follow the following guidelines: https://www. healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide call your local provider or health department. at 36 you would be considered low risk for serious infection. the test in itself does not lead to a specific action and the tests are numbered. so at this time the tests are limited and being used for sicker patients. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "if i'm not sure if i have allergies or coronavirus (or something else), should i still stay home?",
+        "utterances": [
+            "patient: if i'm not sure if i have allergies or coronavirus (or something else), should i still stay home?",
+            "doctor: in brief: there are many online resources to help you distinguish between the two. but, yes it is a good idea to stay home until told otherwise. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "can sinusitis cause white spots on tonsils?",
+        "utterances": [
+            "patient: can sinusitis cause white spots on tonsils?",
+            "doctor: in brief: usually does not throat symptoms can be from strep throat infection (antibiotics are needed), a cold or other virus (antibiotics usually not used), allergies, irritants, sinusitis, stomach reflux when asleep, etc. .. one usually sees the doctor if the throat issue is bothersome, recurrent, or doesn't go away quickly. a strep throat swab test can easily diagnose strep throat. would you like to video or text chat with me?"
+        ]
+    },
+    {
+        "description": "have read covid-19 news quoting some experts as saying that we will see more confirmed cases as more tests are performed, but the mortality rate should drop as that happens. any sign of that yet?",
+        "utterances": [
+            "patient: have read covid-19 news quoting some experts as saying that we will see more confirmed cases as more tests are performed, but the mortality rate should drop as that happens. any sign of that yet?",
+            "doctor: in brief: covid-19 mortality don't confuse actual mortality rate with reported rate. the actual rate probably will remain stable (and likely lower in the us than some other countries, because of sophisticated intensive medical care). but as testing expands and more people with mild symptoms (or no symptoms) are diagnosed, reported mortality will decline; likely happening now, but it may take weeks for data to be known."
+        ]
+    },
+    {
+        "description": "hi, i would like to know where to get tested for covid-19, i work in a call center and one agent was confirmed to have tested positive and i still had contact with her close friends and her last wednesday before i sent her to the doctor for a check?",
+        "utterances": [
+            "patient: hi, i would like to know where to get tested for covid-19, i work in a call center and one agent was confirmed to have tested positive and i still had contact with her close friends and her last wednesday before i sent her to the doctor for a check?",
+            "doctor: self-quarantine. try self-quarantine for 14 days; call your health care provider if you start having symptoms to get instructions regarding testing, self-quarantine and possible hospitalization then follow through!"
+        ]
+    }
+]
