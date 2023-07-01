@@ -79,6 +79,8 @@ def decoder_for_gpt3(args, input, max_length, i, k, n, rd,stop):
         engine = "code-davinci-002"
     elif args.model == "codex-001":
         engine = "code-davinci-001"
+    elif args.model == "text-003":
+        engine = "text-davinci-003"
     else:
         raise ValueError("model is not properly defined ...")
 
@@ -113,7 +115,7 @@ class Decoder():
 
     def decode(self, args, input, max_length, i, k, n,stop,is_turn_to_declarative=False):
         try:
-            if args.model in ("gpt3", "gpt3-medium", "gpt3-large", "gpt3-xl", "codex", "codex-001"):
+            if args.model in ("gpt3", "gpt3-medium", "gpt3-large", "gpt3-xl", "codex", "codex-001","text-003"):
                 response = decoder_for_gpt3(args, input, max_length, i, k, n, self.rd,stop)
                 if self.rd != 3:
                     self.rd += 1
