@@ -1,7 +1,16 @@
 # Large Language Models are reasoners with Self-Verification
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/github/license/WENGSYX/Self-Verification.svg?color=blue&style=flat-square">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/WENGSYX/Self-Verification">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/WENGSYX/Self-Verification">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WENGSYX/Self-Verification">
+</p>
 
 This is the official implementation of `Large Language Models are reasoners with Self-Verification`.
-[![](https://bb-embed.herokuapp.com/embed?v=BV1jS4y1w7SW)](https://player.bilibili.com/player.html?aid=955381394&bvid=BV1as4y1F74k&cid=1180572489&page=1)
+
+<h2 align="center"> Self-Verification Demo </h2>
+https://github.com/WENGSYX/Self-Verification/assets/64484703/281968bf-a8a2-438f-838b-d189c2501d40
+
 
 ## Installation
 Make sure you have Python>=3.8 installed on your machine.
