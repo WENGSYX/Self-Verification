@@ -9,8 +9,9 @@
 This is the official implementation of `Large Language Models are reasoners with Self-Verification`.
 
 <h2 align="center"> Self-Verification Demo </h2>
-https://github-production-user-asset-6210df.s3.amazonaws.com/64484703/250267125-281968bf-a8a2-438f-838b-d189c2501d40.mp4
 
+https://github-production-user-asset-6210df.s3.amazonaws.com/64484703/250267125-281968bf-a8a2-438f-838b-d189c2501d40.mp4
+https://user-images.githubusercontent.com/70048414/232352935-55c6bf7c-3958-406e-8610-0913475a0b05.mp4
 
 ## Installation
 Make sure you have Python>=3.8 installed on your machine.
