@@ -1,8 +1,7 @@
 # Large Language Models are reasoners with Self-Verification
 
 This is the official implementation of `Large Language Models are reasoners with Self-Verification`.
-
-<iframe src="//player.bilibili.com/player.html?aid=955381394&bvid=BV1as4y1F74k&cid=1180572489&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[![](https://bb-embed.herokuapp.com/embed?v=BV1jS4y1w7SW)](https://player.bilibili.com/player.html?aid=955381394&bvid=BV1as4y1F74k&cid=1180572489&page=1)
 
 ## Installation
 Make sure you have Python>=3.8 installed on your machine.
