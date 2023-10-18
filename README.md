@@ -1,4 +1,4 @@
-# Large Language Models are reasoners with Self-Verification
+# Large Language Models are Better Reasoners with Self-Verification
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/github/license/WENGSYX/Self-Verification.svg?color=blue&style=flat-square">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/WENGSYX/Self-Verification">
@@ -6,7 +6,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WENGSYX/Self-Verification">
 </p>
 
-This is the official implementation of `Large Language Models are reasoners with Self-Verification`.
+This is the official implementation of `Large Language Models are Better Reasoners with Self-Verification` (EMNLP 2023 Findings).
 
 ## Demo
 
@@ -65,10 +65,12 @@ python main.py --method=few_shot_cot --model=${model} --dataset=${dataset}
 ## Cite
 
 > ```
-> @article{weng2022verification,
->   title={Large Language Models are reasoners with Self-Verification},
->   author={Weng, Yixuan and Zhu, Minjun and He, Shizhu and Liu, Kang and Zhao, Jun},
->   journal={arXiv preprint arXiv:2212.09561},
->   year={2022}
+> @misc{weng2023large,
+>       title={Large Language Models are Better Reasoners with Self-Verification}, 
+>       author={Yixuan Weng and Minjun Zhu and Fei Xia and Bin Li and Shizhu He and Kang Liu and Jun Zhao},
+>       year={2023},
+>       eprint={2212.09561},
+>       archivePrefix={arXiv},
+>       primaryClass={cs.AI}
 > }
 > ```
