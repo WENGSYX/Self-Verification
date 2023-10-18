@@ -6,7 +6,8 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WENGSYX/Self-Verification">
 </p>
 
-This is the official implementation of `Large Language Models are Better Reasoners with Self-Verification` (EMNLP 2023 Findings).
+This is the official implementation of `Large Language Models are Better Reasoners with Self-Verification`.
+(**EMNLP 2023 Findings**)
 
 ## Demo
 
